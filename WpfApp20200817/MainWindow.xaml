@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WpfApp20200817"
         mc:Ignorable="d"
-        Title="电影知识问答" Height="450" Width="800">
+        Title="电影知识问答20200817" Height="450" Width="800">
     <Grid>
         <Grid.Background>
             <ImageBrush ImageSource="1fc2a5decaf6a676cdbf1a0a.jpg" Stretch="None"/>
