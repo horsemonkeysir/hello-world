@@ -39,5 +39,7 @@ namespace WpfApp20200817
         {
             this.Answer3.Text = "1968年";
         }
+
+  
     }
 }
