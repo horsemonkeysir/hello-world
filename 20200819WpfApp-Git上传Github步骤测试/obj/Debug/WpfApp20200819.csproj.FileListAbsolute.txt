@@ -1,0 +1,15 @@
+C:\Users\Koota\source\repos\WpfApp20200819\bin\Debug\WpfApp20200819.exe.config
+C:\Users\Koota\source\repos\WpfApp20200819\bin\Debug\WpfApp20200819.exe
+C:\Users\Koota\source\repos\WpfApp20200819\bin\Debug\WpfApp20200819.pdb
+C:\Users\Koota\source\repos\WpfApp20200819\obj\Debug\WpfApp20200819.csprojAssemblyReference.cache
+C:\Users\Koota\source\repos\WpfApp20200819\obj\Debug\MainWindow.g.cs
+C:\Users\Koota\source\repos\WpfApp20200819\obj\Debug\App.g.cs
+C:\Users\Koota\source\repos\WpfApp20200819\obj\Debug\WpfApp20200819_MarkupCompile.cache
+C:\Users\Koota\source\repos\WpfApp20200819\obj\Debug\WpfApp20200819_MarkupCompile.lref
+C:\Users\Koota\source\repos\WpfApp20200819\obj\Debug\MainWindow.baml
+C:\Users\Koota\source\repos\WpfApp20200819\obj\Debug\WpfApp20200819.g.resources
+C:\Users\Koota\source\repos\WpfApp20200819\obj\Debug\WpfApp20200819.Properties.Resources.resources
+C:\Users\Koota\source\repos\WpfApp20200819\obj\Debug\WpfApp20200819.csproj.GenerateResource.cache
+C:\Users\Koota\source\repos\WpfApp20200819\obj\Debug\WpfApp20200819.csproj.CoreCompileInputs.cache
+C:\Users\Koota\source\repos\WpfApp20200819\obj\Debug\WpfApp20200819.exe
+C:\Users\Koota\source\repos\WpfApp20200819\obj\Debug\WpfApp20200819.pdb
