@@ -1,0 +1,15 @@
+C:\Users\Koota\source\repos\WpfHelloWorld\WpfHelloWorld\bin\Debug\WpfHelloWorld.exe.config
+C:\Users\Koota\source\repos\WpfHelloWorld\WpfHelloWorld\bin\Debug\WpfHelloWorld.exe
+C:\Users\Koota\source\repos\WpfHelloWorld\WpfHelloWorld\bin\Debug\WpfHelloWorld.pdb
+C:\Users\Koota\source\repos\WpfHelloWorld\WpfHelloWorld\obj\Debug\WpfHelloWorld.csprojAssemblyReference.cache
+C:\Users\Koota\source\repos\WpfHelloWorld\WpfHelloWorld\obj\Debug\MainWindow.g.cs
+C:\Users\Koota\source\repos\WpfHelloWorld\WpfHelloWorld\obj\Debug\App.g.cs
+C:\Users\Koota\source\repos\WpfHelloWorld\WpfHelloWorld\obj\Debug\WpfHelloWorld_MarkupCompile.cache
+C:\Users\Koota\source\repos\WpfHelloWorld\WpfHelloWorld\obj\Debug\WpfHelloWorld_MarkupCompile.lref
+C:\Users\Koota\source\repos\WpfHelloWorld\WpfHelloWorld\obj\Debug\MainWindow.baml
+C:\Users\Koota\source\repos\WpfHelloWorld\WpfHelloWorld\obj\Debug\WpfHelloWorld.g.resources
+C:\Users\Koota\source\repos\WpfHelloWorld\WpfHelloWorld\obj\Debug\WpfHelloWorld.Properties.Resources.resources
+C:\Users\Koota\source\repos\WpfHelloWorld\WpfHelloWorld\obj\Debug\WpfHelloWorld.csproj.GenerateResource.cache
+C:\Users\Koota\source\repos\WpfHelloWorld\WpfHelloWorld\obj\Debug\WpfHelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Koota\source\repos\WpfHelloWorld\WpfHelloWorld\obj\Debug\WpfHelloWorld.exe
+C:\Users\Koota\source\repos\WpfHelloWorld\WpfHelloWorld\obj\Debug\WpfHelloWorld.pdb
