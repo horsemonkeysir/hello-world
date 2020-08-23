@@ -1,0 +1,7 @@
+C:\Users\Koota\source\repos\HelloClass\bin\Debug\HelloClass.exe.config
+C:\Users\Koota\source\repos\HelloClass\bin\Debug\HelloClass.exe
+C:\Users\Koota\source\repos\HelloClass\bin\Debug\HelloClass.pdb
+C:\Users\Koota\source\repos\HelloClass\obj\Debug\HelloClass.csprojAssemblyReference.cache
+C:\Users\Koota\source\repos\HelloClass\obj\Debug\HelloClass.csproj.CoreCompileInputs.cache
+C:\Users\Koota\source\repos\HelloClass\obj\Debug\HelloClass.exe
+C:\Users\Koota\source\repos\HelloClass\obj\Debug\HelloClass.pdb
